@@ -2,3 +2,18 @@ h1{
     background-color: blue;
     border: 1px solid black;
 }
+
+table{
+    border: 1px solid rgb(48, 48, 48);
+    border-collapse: collapse;
+    margin: 30px 0px 30px;
+}
+
+th{
+    border: 1px solid red;
+}
+
+td{
+    border:1px solid blueviolet;
+    padding: 5px;
+}
